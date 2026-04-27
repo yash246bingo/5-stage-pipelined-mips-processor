@@ -31,6 +31,27 @@ This project demonstrates:
 - Forwarding logic
 - Jump handling
 - RTL simulation
+## Features
+
+- 5 pipeline stages:
+  - IF
+  - ID
+  - EX
+  - MEM
+  - WB
+
+- Supported Instructions:
+  - LW
+  - SW
+  - J
+  - LSR
+  - RSR
+
+- Hazard Handling:
+  - Forwarding Unit
+  - Stall Logic
+  - Jump Flush
+
 - FPGA synthesis using **Xilinx Vivado**
 
 ---
