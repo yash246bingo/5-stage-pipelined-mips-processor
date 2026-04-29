@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Architecture-5--Stage%20Pipeline-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Target-FPGA-red?style=for-the-badge">
 </p>
+
 ## Complete Datapath
 
 <p align="center">
